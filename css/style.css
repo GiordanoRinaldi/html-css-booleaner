@@ -1,19 +1,24 @@
+body {
+    width: 55%;
+}
+
 #testata {
     background-color:  #4EA0FF;
     background-image: url(../img/pattern.png);
-    height: 175px;
+    background-size: 35%;
+    height: 88px;
 }
 
 #logo {
     background-image: url(../img/logo.svg);
-    height: 160px;
-    background-size: 20%;
+    height: 88px;
+    background-size: 15%;
     background-position: bottom left;
     background-repeat: no-repeat;
 }
 
 #titolo {
-    font-size: 50px;
+    font-size: 40px;
     margin: 0px;
 }
 
