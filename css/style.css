@@ -1,0 +1,13 @@
+#testata {
+    background-color:  #4EA0FF;
+    background-image: url(../img/pattern.png);
+    height: 175px;
+}
+
+#logo {
+    background-image: url(../img/logo.svg);
+    height: 160px;
+    background-size: 20%;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
