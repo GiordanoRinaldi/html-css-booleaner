@@ -1,5 +1,7 @@
 body {
     width: 55%;
+    text-align: center;
+    margin: auto;
 }
 
 #testata {
@@ -13,7 +15,7 @@ body {
     background-image: url(../img/logo.svg);
     height: 88px;
     background-size: 15%;
-    background-position: bottom left;
+    background-position: bottom center;
     background-repeat: no-repeat;
 }
 
@@ -68,6 +70,7 @@ thead {
     height: 180px;
     background-image: url(../img/monitor.jpg);
     background-position: center;
+    margin: auto;
     font-size: 18px;
 }
 
@@ -76,6 +79,7 @@ thead {
     height: 180px;
     background-image: url(../img/graph.jpg);
     background-position: center;
+    margin: auto;
     font-size: 18px;
 }
 
