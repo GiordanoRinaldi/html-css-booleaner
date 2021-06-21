@@ -63,3 +63,25 @@ thead {
     background-color: #B1E5F2 ;
 }
 
+.monitor {
+    width: 200px;
+    height: 180px;
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    font-size: 18px;
+}
+
+.graph {
+    width: 200px;
+    height: 180px;
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    font-size: 18px;
+}
+
+.footer {
+    margin-top: 0;
+    padding-left: 5px;
+    padding-top: 5px;
+    color: white;
+}
