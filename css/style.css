@@ -36,3 +36,30 @@ body {
 .smalltext {
     font-size: 15px;
 }
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    height: auto;
+    font-size: 12px;
+    border-spacing: unset;
+    
+}
+
+thead {
+    text-align: left;
+    color: white;
+    background-color:  #20A9E5;
+}
+
+.ridimension {
+    width: 600px;
+}
+
+.rscura {
+    background-color: #B1E5F2 ;
+}
+
