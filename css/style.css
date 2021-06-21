@@ -11,3 +11,23 @@
     background-position: bottom left;
     background-repeat: no-repeat;
 }
+
+#titolo {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.undertext {
+    color: lightgrey;
+    font-size: 20px;
+    
+}
+
+.linkrel {
+    color: #20A9E5;
+    text-decoration: none;   
+}
+
+.smalltext {
+    font-size: 15px;
+}
